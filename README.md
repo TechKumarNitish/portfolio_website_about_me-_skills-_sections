@@ -7,7 +7,7 @@ To start building your own components and styles, follow these steps:
 
 1. Clone the repository to your local machine.
     ```sh
-    https://github.com/TechKumarNitish/portfolio_website_about_me_skills_sections.git
+    git clone https://github.com/TechKumarNitish/portfolio_website_about_me_skills_sections.git
     ```
 
 1. open index.html with chrome or any web browser
